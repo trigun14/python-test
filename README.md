@@ -137,7 +137,7 @@ pip install -e .
 
 You can commit your work and ignore the folders using `.gitignore` file:
 
- ![.gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore)
+ [.gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore)
 
 ## 6. Publishing the Package **on GitHub with a tag**
 
@@ -199,7 +199,7 @@ git push origin 0.0.1
 
 Create an access token:
 
-- Go to [Settings](https://github.com/settings/profile) > [Developer Settings](https://github.com/settings/apps) > **Personal access tokens (classic)** > **Generate new token**.
+- Go to [Settings](https://github.com/settings/profile) > [Developer Settings](https://github.com/settings/apps) > Personal access tokens (classic) > Generate new token.
 - Ensure you check the **`write:packages`** scope to grant the necessary permissions.
 
 Once you have your token, keep it secure, as you'll need it to install your package.
