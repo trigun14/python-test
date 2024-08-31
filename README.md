@@ -1,4 +1,4 @@
-# Create and Release a Python Private Package on GitHub
+# Create and Release a Private Python Package on GitHub
 
 ## Table of contents
 
