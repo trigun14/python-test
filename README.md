@@ -1,4 +1,4 @@
-# Create and Release a Python Private Package in GitHub: A Comprehensive Guide
+# Create and Release a Python Private Package in GitHub
 
 # Introduction
 
