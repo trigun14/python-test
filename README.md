@@ -137,7 +137,7 @@ pip install -e .
 
 You can commit your work and ignore the folders using `.gitignore` file:
 
- https://github.com/github/gitignore/blob/main/Python.gitignore
+ ![.gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore)
 
 ## 6. Publishing the Package **on GitHub with a tag**
 
