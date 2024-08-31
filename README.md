@@ -1,4 +1,16 @@
-# Create and Release a Python Private Package in GitHub
+# Create and Release a Python Private Package on GitHub
+
+## Table of contents
+
+- [Introduction](#introduction)
+- [1. Setting Up Your Project Structure](#1-setting-up-your-project-structure)
+- [2. Creating the Package Code](#2-creating-the-package-code)
+- [3. Creating `setup.py`](#3-creating-setuppy)
+- [4. Creating `requirements.txt`](#4-creating-requirementstxt)
+- [5. Building and Installing Your Package](#5-building-and-installing-your-package)
+- [6. Publishing the Package on GitHub with a tag](#6-publishing-the-package-on-github-with-a-tag)
+- [7. Install the Package](#7-install-the-package)
+- [Conclusion](#conclusion)
 
 # Introduction
 
