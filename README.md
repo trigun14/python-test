@@ -15,7 +15,7 @@ By following these steps, you'll be able to reduce code duplication and simplify
 
 Note: DRY doesn't just stand for "Don't Repeat Yourself" - it's also a lifestyle choice.
 
-![meme.jpg]()
+![meme.jpg](https://github.com/ABDELLAH-Hallou/my_package/blob/master/meme.jpg)
 
 ## 1. Setting Up Your Project Structure
 
